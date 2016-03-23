@@ -1,0 +1,13 @@
+1	Heart Spade 
+2	Heart 
+3	Club Spade 
+4	Spade 
+5	Club Diamond 
+6	Club 
+7	Diamond Heart 
+8	Diamond 
+9	Heart Spade 
+10	Heart 
+11	Club Spade 
+12	Spade 
+13	Club Diamond 
